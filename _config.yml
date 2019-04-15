@@ -14,9 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Vagabondean
+author: Edward Collins-Dean
 email: edean1010@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My Simple Travel Blog
+  © 2019 Edward Collins-Dean
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  edean11
