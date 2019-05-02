@@ -1,0 +1,26 @@
+
+
+// globals
+.page-content h1:not(.post-title) {
+  text-align: center;
+}
+.image-gallery,.galleries {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  img { box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.75); }
+  img:hover { transform: scale(1.03); }
+  .gallery-preview, .image-wrapper { 
+    margin: 0.5rem;
+    img { height: 250px; transition: all ease 0.5s }
+  }
+}
+
+.galleries {
+  .gallery-preview {
+    display: inline-block;
+    text-align: center;
+    h3 { margin-top: 0.5rem; }
+  }
+}

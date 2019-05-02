@@ -1,0 +1,18 @@
+---
+layout: default
+title: Galleries
+permalink: /galleries/
+---
+
+<h1>{{ page.title }}</h1>
+
+<div class="galleries">
+  {% for gallery in site.data.galleries.overview %}
+    <div class="gallery-preview">
+      <a href="{{ site.url }}{{ site.baseurl }}/gallery/{{ gallery.directory }}.html">
+        <img alt="{{ gallery.title }}" src="{{ site.url }}{{ site.baseurl }}/assets/{% if gallery.picture_path %}{{ gallery.picture_path }}{% else %}{{ gallery.directory }}{% endif %}/{{ gallery.preview.thumbnail }}" />
+      </a>
+      <h3>{{ gallery.title }}</h3>
+    </div>
+  {% endfor %}
+</div>
