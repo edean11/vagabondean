@@ -26,3 +26,38 @@
   filename: 20190430_173853
   original: 20190430_173853.jpg
   thumbnail: 20190430_173853.jpg
+-
+ title: Florence
+ directory: florence
+ preview:
+  filename: 20190504_143808
+  original: 20190504_143808.png
+  thumbnail: 20190504_143808.png
+-
+ title: Munich
+ directory: munich
+ preview:
+  filename: 20190506_172939
+  original: 20190506_172939.png
+  thumbnail: 20190506_172939.png
+-
+ title: Berlin
+ directory: berlin
+ preview:
+  filename: 20190510_112058
+  original: 20190510_112058.png
+  thumbnail: 20190510_112058.png
+-
+ title: Prague
+ directory: prague
+ preview:
+  filename: 20190515_163806
+  original: 20190515_163806.png
+  thumbnail: 20190515_163806.png
+-
+ title: Budapest
+ directory: budapest
+ preview:
+  filename: 20190524_175010
+  original: 20190524_175010.png
+  thumbnail: 20190524_175010.png
