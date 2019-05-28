@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Leaving Europe"
+date:   2019-05-24 14:42 +0200
+categories: Prague Budapest Hungary
+---
+The last legs of my European travels had me in two of my most anticipated cities: Prague and Budapest.  Arriving by train from Berlin, I managed a short walk to my hostel (Sir Toby's).  Although the hostel was a good distance away from the city center, I managed to grasp the public transport system pretty quickly.  As promised, Prague was a pretty inexpensive place to live and get around.  Per my usual routine, I walked around the area in which I would be spending my next nights just to get a feel for it.  The underground bar scene in the basement of my hostel provided an easy way to get to know some fellow travelers.  Before long, I found myself a group that could easily accomodate any Prague nightlife I wanted to experience.  I met more like-minded individuals on the walking tour the next day, something I have found to be a great way to get a hold of any new city.  The next days in Prague I found myself shifting between these groups for traditional daytime touristic affairs and nightlife activities.  One group happened to be going to Budapest on the same day I would be leaving Prague, so I decided to tag along with them and take a bus straight to Budapest.
+
+Budapest was buzzing with activity and a great place to spend a week or so getting my travel arrangements in order for my upcoming SE Asian travels.  The world-renowned spas were worth the time and money.  The ruin bars scattered about the city were unlike anything I had seen in the other European cities.  The architecture and various neighborhoods were a sight to behold and the cruise through the river separating the "Buda" area from the "Pest" side gave a great overview of things to be seen.  There were castles, parks, quaint semi-covered markets and so much else.  In the end, it was a city that was in the running for the best place I had visited in Europe.
+
+After a transfer flight through Moscow, I made it to Bangkok, Thailand.  I plan on spending about 2 weeks in Thailand which, according to fellow travelers and online research, might not even be enough.  A few quick days in Bangkok then up to the North mountain villages and finally down to the southern island escapes seems to be the best plan of action.  From there I will fly to Vietnam.
