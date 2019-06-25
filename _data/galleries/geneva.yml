@@ -1,66 +1,85 @@
 picture_path: geneva
 preview:
-  filename: 20190418_230134
-  original: 20190418_230134.jpg
-  thumbnail: 20190418_230134.jpg
+  filename: 20190423_114806
+  original: https://vagabondean.s3.amazonaws.com/geneva/20190422_183924.jpg
+  thumbnail: https://vagabondean.s3.amazonaws.com/geneva/20190422_183924.jpg
 pictures:
-- filename: 20190422_183924
-  original: 20190422_183924.jpg
-  thumbnail: 20190422_183924.jpg
-- filename: 20190422_190029
-  original: 20190422_190029.jpg
-  thumbnail: 20190422_190029.jpg
-- filename: 20190422_193657
-  original: 20190422_193657.jpg
-  thumbnail: 20190422_193657.jpg
-- filename: 20190422_194455
-  original: 20190422_194455.jpg
-  thumbnail: 20190422_194455.jpg
-- filename: 20190423_113119
-  original: 20190423_113119.jpg
-  thumbnail: 20190423_113119.jpg
-- filename: 20190423_114806
-  original: 20190423_114806.jpg
-  thumbnail: 20190423_114806.jpg
-- filename: 20190423_121815
-  original: 20190423_121815.jpg
-  thumbnail: 20190423_121815.jpg
-- filename: 20190423_122800
-  original: 20190423_122800.jpg
-  thumbnail: 20190423_122800.jpg
-- filename: 20190423_123726
-  original: 20190423_123726.jpg
-  thumbnail: 20190423_123726.jpg
-- filename: 20190423_123839
-  original: 20190423_123839.jpg
-  thumbnail: 20190423_123839.jpg
-- filename: 20190423_124922
-  original: 20190423_124922.jpg
-  thumbnail: 20190423_124922.jpg
-- filename: 20190423_124924
-  original: 20190423_124924.jpg
-  thumbnail: 20190423_124924.jpg
-- filename: 20190423_130611
-  original: 20190423_130611.jpg
-  thumbnail: 20190423_130611.jpg
-- filename: 20190423_132307
-  original: 20190423_132307.jpg
-  thumbnail: 20190423_132307.jpg
-- filename: 20190423_132834
-  original: 20190423_132834.jpg
-  thumbnail: 20190423_132834.jpg
-- filename: 20190423_133045
-  original: 20190423_133045.jpg
-  thumbnail: 20190423_133045.jpg
-- filename: 20190424_122333
-  original: 20190424_122333.jpg
-  thumbnail: 20190424_122333.jpg
-- filename: 20190424_122405
-  original: 20190424_122405.jpg
-  thumbnail: 20190424_122405.jpg
-- filename: 20190424_122534
-  original: 20190424_122534.jpg
-  thumbnail: 20190424_122534.jpg
-- filename: 20190424_122935
-  original: 20190424_122935.jpg
-  thumbnail: 20190424_122935.jpg
+  - filename: 20190423_114806
+    original: https://vagabondean.s3.amazonaws.com/geneva/20190423_114806.jpg
+    thumbnail: https://vagabondean.s3.amazonaws.com/geneva/20190423_114806.jpg
+
+  - filename: 20190422_190029
+    original: https://vagabondean.s3.amazonaws.com/geneva/20190422_190029.jpg
+    thumbnail: https://vagabondean.s3.amazonaws.com/geneva/20190422_190029.jpg
+
+  - filename: 20190422_193657
+    original: https://vagabondean.s3.amazonaws.com/geneva/20190422_193657.jpg
+    thumbnail: https://vagabondean.s3.amazonaws.com/geneva/20190422_193657.jpg
+
+  - filename: 20190423_122800
+    original: https://vagabondean.s3.amazonaws.com/geneva/20190423_122800.jpg
+    thumbnail: https://vagabondean.s3.amazonaws.com/geneva/20190423_122800.jpg
+
+  - filename: 20190424_122534
+    original: https://vagabondean.s3.amazonaws.com/geneva/20190424_122534.jpg
+    thumbnail: https://vagabondean.s3.amazonaws.com/geneva/20190424_122534.jpg
+
+  - filename: 20190424_122333
+    original: https://vagabondean.s3.amazonaws.com/geneva/20190424_122333.jpg
+    thumbnail: https://vagabondean.s3.amazonaws.com/geneva/20190424_122333.jpg
+
+  - filename: 20190424_122935
+    original: https://vagabondean.s3.amazonaws.com/geneva/20190424_122935.jpg
+    thumbnail: https://vagabondean.s3.amazonaws.com/geneva/20190424_122935.jpg
+
+  - filename: 20190422_194455
+    original: https://vagabondean.s3.amazonaws.com/geneva/20190422_194455.jpg
+    thumbnail: https://vagabondean.s3.amazonaws.com/geneva/20190422_194455.jpg
+
+  - filename: 20190423_124924
+    original: https://vagabondean.s3.amazonaws.com/geneva/20190423_124924.jpg
+    thumbnail: https://vagabondean.s3.amazonaws.com/geneva/20190423_124924.jpg
+
+  - filename: 20190423_132834
+    original: https://vagabondean.s3.amazonaws.com/geneva/20190423_132834.jpg
+    thumbnail: https://vagabondean.s3.amazonaws.com/geneva/20190423_132834.jpg
+
+  - filename: 20190423_133045
+    original: https://vagabondean.s3.amazonaws.com/geneva/20190423_133045.jpg
+    thumbnail: https://vagabondean.s3.amazonaws.com/geneva/20190423_133045.jpg
+
+  - filename: 20190423_123726
+    original: https://vagabondean.s3.amazonaws.com/geneva/20190423_123726.jpg
+    thumbnail: https://vagabondean.s3.amazonaws.com/geneva/20190423_123726.jpg
+
+  - filename: 20190423_124922
+    original: https://vagabondean.s3.amazonaws.com/geneva/20190423_124922.jpg
+    thumbnail: https://vagabondean.s3.amazonaws.com/geneva/20190423_124922.jpg
+
+  - filename: 20190422_183924
+    original: https://vagabondean.s3.amazonaws.com/geneva/20190422_183924.jpg
+    thumbnail: https://vagabondean.s3.amazonaws.com/geneva/20190422_183924.jpg
+
+  - filename: 20190423_130611
+    original: https://vagabondean.s3.amazonaws.com/geneva/20190423_130611.jpg
+    thumbnail: https://vagabondean.s3.amazonaws.com/geneva/20190423_130611.jpg
+
+  - filename: 20190423_123839
+    original: https://vagabondean.s3.amazonaws.com/geneva/20190423_123839.jpg
+    thumbnail: https://vagabondean.s3.amazonaws.com/geneva/20190423_123839.jpg
+
+  - filename: 20190423_121815
+    original: https://vagabondean.s3.amazonaws.com/geneva/20190423_121815.jpg
+    thumbnail: https://vagabondean.s3.amazonaws.com/geneva/20190423_121815.jpg
+
+  - filename: 20190423_113119
+    original: https://vagabondean.s3.amazonaws.com/geneva/20190423_113119.jpg
+    thumbnail: https://vagabondean.s3.amazonaws.com/geneva/20190423_113119.jpg
+
+  - filename: 20190424_122405
+    original: https://vagabondean.s3.amazonaws.com/geneva/20190424_122405.jpg
+    thumbnail: https://vagabondean.s3.amazonaws.com/geneva/20190424_122405.jpg
+
+  - filename: 20190423_132307
+    original: https://vagabondean.s3.amazonaws.com/geneva/20190423_132307.jpg
+    thumbnail: https://vagabondean.s3.amazonaws.com/geneva/20190423_132307.jpg

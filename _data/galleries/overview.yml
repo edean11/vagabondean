@@ -3,61 +3,82 @@
  directory: barcelona
  preview:
   filename: 20190419_155240
-  original: 20190419_155240.jpg
-  thumbnail: 20190419_155240.jpg
+  original: https://vagabondean.s3.amazonaws.com/barcelona/20190419_155240.jpg
+  thumbnail: https://vagabondean.s3.amazonaws.com/barcelona/20190419_155240.jpg
 -
  title: Geneva
  directory: geneva
  preview:
-  filename: 20190423_132307
-  original: 20190423_132307.jpg
-  thumbnail: 20190423_132307.jpg
+  filename: 20190423_114806
+  original: https://vagabondean.s3.amazonaws.com/geneva/20190423_114806.jpg
+  thumbnail: https://vagabondean.s3.amazonaws.com/geneva/20190423_114806.jpg
 -
  title: Chamonix
  directory: chamonix
  preview:
   filename: 20190428_114706
-  original: 20190428_114706.png
-  thumbnail: 20190428_114706.png
+  original: https://vagabondean.s3.amazonaws.com/chamonix/20190428_114706.png
+  thumbnail: https://vagabondean.s3.amazonaws.com/chamonix/20190428_114706.png
 -
  title: Milan
  directory: milan
  preview:
   filename: 20190430_173853
-  original: 20190430_173853.jpg
-  thumbnail: 20190430_173853.jpg
+  original: https://vagabondean.s3.amazonaws.com/milan/20190430_173853.jpg
+  thumbnail: https://vagabondean.s3.amazonaws.com/milan/20190430_173853.jpg
 -
  title: Florence
  directory: florence
  preview:
   filename: 20190504_143808
-  original: 20190504_143808.png
-  thumbnail: 20190504_143808.png
+  original: https://vagabondean.s3.amazonaws.com/florence/20190504_143808.png
+  thumbnail: https://vagabondean.s3.amazonaws.com/florence/20190504_143808.png
 -
  title: Munich
  directory: munich
  preview:
   filename: 20190506_172939
-  original: 20190506_172939.png
-  thumbnail: 20190506_172939.png
+  original: https://vagabondean.s3.amazonaws.com/munich/20190506_172939.png
+  thumbnail: https://vagabondean.s3.amazonaws.com/munich/20190506_172939.png
 -
  title: Berlin
  directory: berlin
  preview:
   filename: 20190510_112058
-  original: 20190510_112058.png
-  thumbnail: 20190510_112058.png
+  original: https://vagabondean.s3.amazonaws.com/berlin/20190510_112058.png
+  thumbnail: https://vagabondean.s3.amazonaws.com/berlin/20190510_112058.png
 -
  title: Prague
  directory: prague
  preview:
   filename: 20190515_163806
-  original: 20190515_163806.png
-  thumbnail: 20190515_163806.png
+  original: https://vagabondean.s3.amazonaws.com/prague/20190515_163806.png
+  thumbnail: https://vagabondean.s3.amazonaws.com/prague/20190515_163806.png
 -
  title: Budapest
  directory: budapest
  preview:
   filename: 20190524_175010
-  original: 20190524_175010.png
-  thumbnail: 20190524_175010.png
+  original: https://vagabondean.s3.amazonaws.com/budapest/20190524_175010.png
+  thumbnail: https://vagabondean.s3.amazonaws.com/budapest/20190524_175010.png
+-
+ title: Bangkok
+ directory: bangkok
+ preview:
+  filename: 20190528_103913
+  original: https://vagabondean.s3.amazonaws.com/bangkok/20190528_103913.png
+  thumbnail: https://vagabondean.s3.amazonaws.com/bangkok/20190528_103913.png
+-
+ title: Chiang Mai
+ directory: chiang_mai
+ preview:
+  filename: 20190531_133742
+  original: https://vagabondean.s3.amazonaws.com/chiang+mai/20190531_133742.png
+  thumbnail: https://vagabondean.s3.amazonaws.com/chiang+mai/20190531_133742.png
+-
+ title: Pai
+ directory: pai
+ preview:
+  filename: 20190605_125304
+  original: https://vagabondean.s3.amazonaws.com/pai/20190605_125304.png
+  thumbnail: https://vagabondean.s3.amazonaws.com/pai/20190605_125304.png

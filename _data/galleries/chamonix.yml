@@ -1,57 +1,73 @@
 picture_path: chamonix
 preview:
   filename: 20190428_114706
-  original: 20190428_114706.png
-  thumbnail: 20190428_114706.png
+  original: https://vagabondean.s3.amazonaws.com/chamonix/20190428_114706.png
+  thumbnail: https://vagabondean.s3.amazonaws.com/chamonix/20190428_114706.png
 pictures:
-- filename: 20190427_143707
-  original: 20190427_143707.png
-  thumbnail: 20190427_143707.png
-- filename: 20190427_150742
-  original: 20190427_150742.png
-  thumbnail: 20190427_150742.png
-- filename: 20190427_190918
-  original: 20190427_190918.png
-  thumbnail: 20190427_190918.png
-- filename: 20190428_114402
-  original: 20190428_114402.png
-  thumbnail: 20190428_114402.png
-- filename: 20190428_114706
-  original: 20190428_114706.png
-  thumbnail: 20190428_114706.png
-- filename: 20190428_120426
-  original: 20190428_120426.png
-  thumbnail: 20190428_120426.png
-- filename: 20190428_122104
-  original: 20190428_122104.png
-  thumbnail: 20190428_122104.png
-- filename: 20190428_122109
-  original: 20190428_122109.png
-  thumbnail: 20190428_122109.png
-- filename: 20190428_122359
-  original: 20190428_122359.png
-  thumbnail: 20190428_122359.png
-- filename: 20190428_122544
-  original: 20190428_122544.png
-  thumbnail: 20190428_122544.png
-- filename: 20190428_122744
-  original: 20190428_122744.png
-  thumbnail: 20190428_122744.png
-- filename: 20190428_123359
-  original: 20190428_123359.png
-  thumbnail: 20190428_123359.png
-- filename: 20190428_124235
-  original: 20190428_124235.png
-  thumbnail: 20190428_124235.png
-- filename: 20190428_124902
-  original: 20190428_124902.png
-  thumbnail: 20190428_124902.png
-- filename: 20190428_125244
-  original: 20190428_125244.png
-  thumbnail: 20190428_125244.png
-- filename: 20190428_125315
-  original: 20190428_125315.png
-  thumbnail: 20190428_125315.png
-- filename: 20190428_170942
-  original: 20190428_170942.png
-  thumbnail: 20190428_170942.png
+  - filename: 20190428_122104
+    original: https://vagabondean.s3.amazonaws.com/chamonix/20190428_122104.png
+    thumbnail: https://vagabondean.s3.amazonaws.com/chamonix/20190428_122104.png
+
+  - filename: 20190428_125244
+    original: https://vagabondean.s3.amazonaws.com/chamonix/20190428_125244.png
+    thumbnail: https://vagabondean.s3.amazonaws.com/chamonix/20190428_125244.png
+
+  - filename: 20190427_190918
+    original: https://vagabondean.s3.amazonaws.com/chamonix/20190427_190918.png
+    thumbnail: https://vagabondean.s3.amazonaws.com/chamonix/20190427_190918.png
+
+  - filename: 20190428_114706
+    original: https://vagabondean.s3.amazonaws.com/chamonix/20190428_114706.png
+    thumbnail: https://vagabondean.s3.amazonaws.com/chamonix/20190428_114706.png
+
+  - filename: 20190428_122359
+    original: https://vagabondean.s3.amazonaws.com/chamonix/20190428_122359.png
+    thumbnail: https://vagabondean.s3.amazonaws.com/chamonix/20190428_122359.png
+
+  - filename: 20190428_114402
+    original: https://vagabondean.s3.amazonaws.com/chamonix/20190428_114402.png
+    thumbnail: https://vagabondean.s3.amazonaws.com/chamonix/20190428_114402.png
+
+  - filename: 20190427_143707
+    original: https://vagabondean.s3.amazonaws.com/chamonix/20190427_143707.png
+    thumbnail: https://vagabondean.s3.amazonaws.com/chamonix/20190427_143707.png
+
+  - filename: 20190427_150742
+    original: https://vagabondean.s3.amazonaws.com/chamonix/20190427_150742.png
+    thumbnail: https://vagabondean.s3.amazonaws.com/chamonix/20190427_150742.png
+
+  - filename: 20190428_120426
+    original: https://vagabondean.s3.amazonaws.com/chamonix/20190428_120426.png
+    thumbnail: https://vagabondean.s3.amazonaws.com/chamonix/20190428_120426.png
+
+  - filename: 20190428_122544
+    original: https://vagabondean.s3.amazonaws.com/chamonix/20190428_122544.png
+    thumbnail: https://vagabondean.s3.amazonaws.com/chamonix/20190428_122544.png
+
+  - filename: 20190428_124902
+    original: https://vagabondean.s3.amazonaws.com/chamonix/20190428_124902.png
+    thumbnail: https://vagabondean.s3.amazonaws.com/chamonix/20190428_124902.png
+
+  - filename: 20190428_122744
+    original: https://vagabondean.s3.amazonaws.com/chamonix/20190428_122744.png
+    thumbnail: https://vagabondean.s3.amazonaws.com/chamonix/20190428_122744.png
+
+  - filename: 20190428_170942
+    original: https://vagabondean.s3.amazonaws.com/chamonix/20190428_170942.png
+    thumbnail: https://vagabondean.s3.amazonaws.com/chamonix/20190428_170942.png
+
+  - filename: 20190428_123359
+    original: https://vagabondean.s3.amazonaws.com/chamonix/20190428_123359.png
+    thumbnail: https://vagabondean.s3.amazonaws.com/chamonix/20190428_123359.png
+
+  - filename: 20190428_124235
+    original: https://vagabondean.s3.amazonaws.com/chamonix/20190428_124235.png
+    thumbnail: https://vagabondean.s3.amazonaws.com/chamonix/20190428_124235.png
+
+  - filename: 20190428_125315
+    original: https://vagabondean.s3.amazonaws.com/chamonix/20190428_125315.png
+    thumbnail: https://vagabondean.s3.amazonaws.com/chamonix/20190428_125315.png
+
+  - filename: 20190428_122109
+    original: https://vagabondean.s3.amazonaws.com/chamonix/20190428_122109.png
+    thumbnail: https://vagabondean.s3.amazonaws.com/chamonix/20190428_122109.png
