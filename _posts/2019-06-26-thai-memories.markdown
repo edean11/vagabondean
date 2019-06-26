@@ -2,7 +2,6 @@
 layout: post
 title:  "Thai Memories"
 date:   2019-06-26 14:28 +1200
-categories: Thailand Bangkok Chiang Mai Pai Koh Phi Phi Ko Tao Koh Phangan
 ---
 As I was warned, Thailand was liable to grab hold of you and not let go.  I intended on staying a couple weeks but ended up staying until my Visa expired (~30 days).  
 

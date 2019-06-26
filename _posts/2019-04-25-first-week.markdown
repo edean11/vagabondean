@@ -2,7 +2,6 @@
 layout: post
 title:  "First Week"
 date:   2019-04-25 05:11:00 +0200
-categories: Barcelona Geneva Switzerland Chamonix France
 ---
 The first few days in Barcelona were great.  Expectedly, solo travel began as a daunting excursion but slowly morphed into an exhilerating one.  The freedom of movement and activities provides an experience unlike my past travels, as designed.
 

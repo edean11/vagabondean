@@ -2,7 +2,6 @@
 layout: post
 title:  "Leaving America"
 date:   2019-04-16 16:29:45 -0400
-categories: Barcelona
 ---
 3 plane rides to begin my expedition.  I had forgotten of the scramble for overhead bin space and disregard for seating zones.  Only the most ambitious and unrelenting among us could claim what we all wanted.  
 

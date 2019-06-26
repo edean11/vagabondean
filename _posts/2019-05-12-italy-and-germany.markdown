@@ -2,7 +2,6 @@
 layout: post
 title:  "Italy and Germany"
 date:   2019-05-12 14:42 +0200
-categories: Italy Milan Florence Germany Munich Berlin
 ---
 It has been a while since I've updated this blog. I am finding it hard to have the time and inclination to pull out my laptop and write of my experiences, but this feels overdue.
 
