@@ -89,3 +89,17 @@
   filename: 20190621_185739
   original: https://vagabondean.s3.amazonaws.com/thai+islands/20190621_185739.png
   thumbnail: https://vagabondean.s3.amazonaws.com/thai+islands/20190621_185739.png
+-
+ title: Vietnam
+ directory: vietnam
+ preview:
+  filename: 20190704_131445
+  original: https://vagabondean.s3.amazonaws.com/vietnam/20190704_131445.png
+  thumbnail: https://vagabondean.s3.amazonaws.com/vietnam/20190704_131445.png
+-
+ title: Japan
+ directory: japan
+ preview:
+  filename: 20190716_161856
+  original: https://vagabondean.s3.amazonaws.com/japan/20190711_150802.png
+  thumbnail: https://vagabondean.s3.amazonaws.com/japan/20190711_150802.png
